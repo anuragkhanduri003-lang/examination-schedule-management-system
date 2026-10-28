@@ -1,0 +1,6 @@
+{
+  "name": "Examination Schedule and Management System (ESMS)",
+  "description": "A centralized university examination management system featuring role-based dashboards for Students, Faculty, and Admin with schedule conflict detection, marks management, and persistent data storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
